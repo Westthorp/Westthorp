@@ -1,0 +1,4 @@
+- First Year Undergraduate Computer Scientist at the University of Warwick
+- Looking to explore a range of fields within the Computing Industry
+- Passionate about the Cyber Sector and Software Development
+- Currently studying Java, C and Haskell alongside teaching myself HTML and CSS
